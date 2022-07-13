@@ -1,0 +1,8 @@
+Page registration:
+
+	Boxes:
+		Login	:
+		Password:
+
+	Button: 
+		Sign in
