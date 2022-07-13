@@ -2,9 +2,9 @@ Page registration:
 
 	Boxes:
 		"Login:"
+		"First Name:"
 		"Password:"
-
 	Button: 
 		"Sign in"
 		"Close page"
-"Helpdesk" 
+		"Helpdesk" 
