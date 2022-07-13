@@ -1,3 +1,6 @@
 Boxes:
 	"Products:" 
+<<<<<<< HEAD
 	"Bug" 
+=======
+>>>>>>> 45db789350aad350135da9bc6a1290e57b892b42
