@@ -8,4 +8,4 @@ Page registration:
 		"Sign in"
 		"Close page"
 		"Helpdesk" 
-"Comeback on main page"  
+		"Comeback on main page"  
