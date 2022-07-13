@@ -7,3 +7,4 @@ Page registration:
 	Button: 
 		"Sign in"
 		"Close page"
+"Helpdesk" 
