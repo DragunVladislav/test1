@@ -1,8 +1,9 @@
 Page registration:
 
 	Boxes:
-		Login	:
-		Password:
+		"Login:"
+		"Password:"
 
 	Button: 
-		Sign in
+		"Sign in"
+		"Close page"
